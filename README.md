@@ -7,7 +7,7 @@ A modern, all-in-one restaurant management system with split bill functionality,
 
 ## ✨ Live Demo
 👉 **[View Live Demo](https://YOUR-USERNAME.github.io/SmartMenu/)** 👈
-
+Demo :https://drive.google.com/file/d/1RAmQijPegjKykB3Q-7uaJRHXm8bEImQe/view?usp=drivesdk
 ## 📱 Features
 
 ### 🎯 **Core Functionality**
